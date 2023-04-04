@@ -1,4 +1,4 @@
-# jvm-obf-tester
+# jvm-obfuscation-tester
 This is a simple application to test JVM obfuscation. It contains multiple tests that some obfuscators struggle with.
 This is the successor to [my old obfuscation tester](https://github.com/sim0n/Evaluator)
 
